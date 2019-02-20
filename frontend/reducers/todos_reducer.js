@@ -3,7 +3,7 @@ import {RECEIVE_TODO} from '../actions/todo_actions'
 import {merge} from 'lodash'
 
 const initialState = {
-  1: {
+ 1 : {
     id: 1,
     title: 'wash car',
     body: 'with soap',
